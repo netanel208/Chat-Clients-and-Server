@@ -1,5 +1,5 @@
 # Chat-Clients-and-Server
-This type of project is recognized among computer science students.
+This type of project is recognized among Computer Science students.
 
 Learn more:
 
